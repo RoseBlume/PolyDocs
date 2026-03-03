@@ -1,0 +1,191 @@
+{
+  "title": "PolyDocs",
+  "site_root": "Users/James/Documents/Crates/ultidocs/example/dist",
+  "content_dir": "content",
+  "build_dir": "dist",
+  "favicon": "assets/favicon.ico",
+  "custom_css": "assets/custom.css",
+  "sidebar_css": "assets/sidebar.css",
+  "highlight_css": "assets/highlight.css",
+  "custom_js": "assets/custom.js",
+  "sidebar": [
+    {
+      "label": "App Frameworks",
+      "collapsed": true,
+      "items": [
+        {
+          "label": "Electron",
+          "collapsed": true,
+          "autogenerate": { "directory": "App-Frameworks/Electron" }
+        },
+        {
+          "label": "Flutter",
+
+          "collapsed": true,
+          "autogenerate": { "directory": "App-Frameworks/Flutter" }
+        },
+        {
+          "label": "Qt 6",
+          "collapsed": true,
+
+          "autogenerate": { "directory": "App-Frameworks/Qt6" }
+        },
+        {
+          "label": "JavaFX",
+
+          "collapsed": true,
+          "autogenerate": { "directory": "App-Frameworks/JavaFX" }
+        },
+        {
+          "label": "Tkinter",
+
+          "collapsed": true,
+          "autogenerate": { "directory": "App-Frameworks/Tkinter" }
+        },
+        {
+          "label": "GTK",
+
+          "collapsed": true,
+          "autogenerate": { "directory": "App-Frameworks/Gtk" }
+        }
+      ]
+    },
+    {
+      "label": "Programming Languages",
+      "collapsed": true,
+      "items": [
+        {
+          "label": "HTML",
+          "collapsed": true,
+          "autogenerate": { "directory": "High-Level/HTML" }
+        },
+        {
+          "label": "CSS",
+          "collapsed": true,
+          "autogenerate": { "directory": "High-Level/CSS" }
+        },
+        {
+          "label": "JavaScript",
+          "collapsed": true,
+          "autogenerate": { "directory": "High-Level/JavaScript" }
+        },
+        {
+          "label": "C#",
+          "collapsed": true,
+          "autogenerate": { "directory": "High-Level/CSharp" }
+        },
+        {
+          "label": "Dart",
+          "collapsed": true,
+          "autogenerate": { "directory": "High-Level/Dart" }
+
+        },
+        {
+          "label": "Java",
+          "collapsed": true,
+          "autogenerate": { "directory": "High-Level/Java" }
+        },
+        {
+          "label": "PHP",
+          "collapsed": true,
+          "autogenerate": { "directory": "High-Level/PHP" }
+        },
+        {
+          "label": "Python",
+          "collapsed": true,
+          "autogenerate": { "directory": "High-Level/Python" }
+        },
+        {
+          "label": "R",
+          "collapsed": true,
+          "autogenerate": { "directory": "High-Level/R" }
+        },
+        {
+          "label": "SQL",
+          "collapsed": true,
+          "autogenerate": { "directory": "High-Level/SQL" }
+        },
+        {
+          "label": "TypeScript",
+          "collapsed": true,
+          "autogenerate": { "directory": "High-Level/TypeScript" }
+        },
+        {
+          "label": "C",
+          "collapsed": true,
+          "autogenerate": { "directory": "Low-Level/C" }
+        },
+        {
+          "label": "C++",
+          "collapsed": true,
+          "autogenerate": { "directory": "Low-Level/CPP" }
+        },
+        {
+          "label": "NASM",
+          "collapsed": true,
+          "autogenerate": { "directory": "Low-Level/NASM" }
+        },
+        {
+          "label": "Rust",
+          "collapsed": true,
+          "autogenerate": { "directory": "Low-Level/Rust" }
+        }
+      ]
+    },
+    {
+      "label": "Frontend Frameworks",
+
+      "collapsed": true,
+      "items": [
+        {
+          "label": "Blazor",
+
+          "collapsed": true,
+          "autogenerate": { "directory": "Frontend_Frameworks/Blazor" }
+        },
+        {
+          "label": "Dioxus",
+
+          "collapsed": true,
+          "autogenerate": { "directory": "Frontend_Frameworks/Dioxus" }
+        },
+        {
+          "label": "Leptos",
+
+          "collapsed": true,
+          "autogenerate": { "directory": "Frontend_Frameworks/Leptos" }
+        },
+        {
+          "label": "React",
+
+          "collapsed": true,
+          "autogenerate": { "directory": "Frontend_Frameworks/React" }
+        },
+        {
+          "label": "SolidJS",
+
+          "collapsed": true,
+          "autogenerate": { "directory": "Frontend_Frameworks/SolidJS" }
+        },
+        {
+          "label": "Svelte",
+
+          "collapsed": true,
+          "autogenerate": { "directory": "Frontend_Frameworks/Svelte" }
+        },
+        {
+          "label": "Vue",
+
+          "collapsed": true,
+          "autogenerate": { "directory": "Frontend_Frameworks/Vue" }
+        },
+        {
+          "label": "Yew",
+
+          "collapsed": true,
+          "autogenerate": { "directory": "Frontend_Frameworks/Yew" }
+        }
+      ]
+    }
+  ]
+}
