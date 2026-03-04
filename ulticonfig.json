@@ -7,7 +7,6 @@
   "custom_css": "assets/custom.css",
   "sidebar_css": "assets/sidebar.css",
   "highlight_css": "assets/highlight.css",
-  "custom_js": "assets/custom.js",
   "sidebar": [
     {
       "label": "App Frameworks",
