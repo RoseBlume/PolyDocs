@@ -26,7 +26,7 @@ jobs:
           override: true
 
       - name: Install ultidocs-cli
-        run: cargo install --branch main --git https://github.com/RoseBlume/Ultidocs
+        run: cargo install ultidocs-cli
 
       - name: Build site
         run: ulti build
