@@ -1,6 +1,6 @@
 {
   "title": "PolyDocs",
-  "site_root": "https://roseblume.github.io/PolyDocs",
+  "site_root": "/PolyDocs",
   "content_dir": "content",
   "build_dir": "dist",
   "favicon": "assets/favicon.ico",
