@@ -1,6 +1,6 @@
 {
   "title": "PolyDocs",
-  "site_root": "Users/James/Documents/Crates/ultidocs/example/dist",
+  "site_root": "https://roseblume.github.io/PolyDocs",
   "content_dir": "content",
   "build_dir": "dist",
   "favicon": "assets/favicon.ico",
