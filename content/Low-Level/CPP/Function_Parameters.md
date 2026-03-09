@@ -146,7 +146,7 @@ int main() {
 
 Output:
 
-```
+```py
 
 a: 5, b: 10
 

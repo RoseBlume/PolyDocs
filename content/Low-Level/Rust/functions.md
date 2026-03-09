@@ -63,9 +63,7 @@ println!("The sum is: {}", result);
 This will output:
 
 ```
-
 The sum is: 8
-
 ```
 
 Functions in Rust can also have default parameter values, variable-length arguments, and closures. You can explore these advanced topics in the Rust documentation.

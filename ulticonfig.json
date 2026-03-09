@@ -4,10 +4,11 @@
   "content_dir": "content",
   "build_dir": "dist",
   "favicon": "assets/favicon.ico",
-  "custom_css": "assets/custom.css",
-  "sidebar_css": "assets/sidebar.css",
-  "highlight_css": "assets/highlight.css",
   "sidebar": [
+    {
+      "label": "Home",
+      "slug": "home"
+    },
     {
       "label": "App Frameworks",
       "collapsed": true,

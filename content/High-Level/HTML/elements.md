@@ -4,6 +4,7 @@ sidebar:
   order: 0
 ---
 
+
 HTML (Hypertext Markup Language) is the standard markup language for creating web pages. It consists of various elements that define the structure and content of a web page.
 
 - `<h1>` to `<h6>`: These tags define headings of different levels, with `<h1>` being the highest level and `<h6>` being the lowest. Headings are important for SEO and accessibility as they help to structure the content and make it easier to navigate.
